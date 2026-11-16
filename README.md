@@ -8,12 +8,9 @@
 
 Enable caching on your site by following these steps:
 
-1. Install the plugin.
-2. You're done – Enjoy the benefits caching. 😎
-
-## Download
-
-Check [GitHub Releases](https://github.com/tzri/open-wordpress-cache/releases) for an installable plugin ZIP.
+1. Download [the latest zip archive](https://github.com/tzri/open-wordpress-cache/archive/refs/heads/main.zip) for an installable plugin ZIP.
+2. Install the plugin.
+3. You're done – Enjoy the benefits caching. 😎
 
 ## Details
 
@@ -52,7 +49,7 @@ The focused design of Open WP Cache keeps the settings simple and helps limit th
 **Only pre-requisite**: You need a writable local WordPress uploads directory (`wp-content/uploads/`) which you most likely have.
 
 ### Install Steps
-1. Download the [plugin ZIP](https://github.com/tzri/open-wordpress-cache/releases).
+1. Download the [plugin ZIP](https://github.com/tzri/open-wordpress-cache/archive/refs/heads/main.zip).
 2. In WordPress, go to **Plugins → Add New Plugin → Upload Plugin**.
 3. Choose the ZIP, install it, and activate the plugin.
 4. (Optional) Go **Settings → Open WordPress Cache** to review the settings.
